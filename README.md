@@ -9,7 +9,7 @@ This script checks the uptime of a set of HTTP endpoints defined in a YAML confi
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Pilas01/sre-take-home-exercise.git
+    git clone https://github.com/Pilas01/sre-take-home-exercise-python.git
     cd sre-take-home-exercise-python
 
     ```
