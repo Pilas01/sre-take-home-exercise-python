@@ -67,5 +67,5 @@ This script checks the uptime of a set of HTTP endpoints defined in a YAML confi
 
 When running the script, it will log availability percentages every 15 seconds like this:
 
-025-04-22 17:50:19,378 - www.google.com: 100% availability
+2025-04-22 17:50:19,378 - www.google.com: 100% availability
 2025-04-22 17:50:19,379 - example.com: 100% availability
